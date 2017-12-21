@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/XPFingerPrintDemo.iml" filepath="$PROJECT_DIR$/XPFingerPrintDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/xpbind/xpbind.iml" filepath="$PROJECT_DIR$/xpbind/xpbind.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xpfingerprint/xpfingerprint.iml" filepath="$PROJECT_DIR$/xpfingerprint/xpfingerprint.iml" />
     </modules>
   </component>
 </project>

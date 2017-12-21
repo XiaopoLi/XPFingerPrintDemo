@@ -1,1 +1,1 @@
-include ':app', ':xpbind'
+include ':app', ':xpbind', ':xpfingerprint'
